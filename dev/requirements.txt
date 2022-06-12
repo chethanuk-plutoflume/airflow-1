@@ -9,3 +9,4 @@ packaging
 rich
 rich_click
 tabulate
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability

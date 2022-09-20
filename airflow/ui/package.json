@@ -26,7 +26,7 @@
     "react-query": "^3.12.3",
     "react-router-dom": "^5.2.0",
     "react-select": "^4.3.0",
-    "react-table": "^7.7.0",
+    "react-table": "^7.8.0",
     "use-react-router": "^1.0.7",
     "json-schema": "^0.4.0"
   },

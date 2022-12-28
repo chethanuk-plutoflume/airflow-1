@@ -22,7 +22,7 @@
     "react": "^16",
     "react-dom": "^16",
     "react-hot-loader": "^4",
-    "react-icons": "^4.2.0",
+    "react-icons": "^4.7.1",
     "react-query": "^3.12.3",
     "react-router-dom": "^5.2.0",
     "react-select": "^4.3.0",
